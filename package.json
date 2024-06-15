@@ -3,7 +3,7 @@
     "build": "npm run build:client && npm run build:server",
     "build:azure": "npm run build"
   }
-}
+},
 {
   "name": "coze2openai",
   "version": "1.0.0",
